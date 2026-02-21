@@ -1,2 +1,21 @@
 # mnist-self-organizing-map
 A high-performance C++ implementation of Kohonen SOM (Self-Organizing Maps) designed for unsupervised clustering and recognition of MNIST handwritten digits
+
+![Нейронная сеть Кохонена](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/1.jpg)
+![Цель и реализация](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/2.jpg)
+![Мотивация исследования](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/3.jpg)
+![Структура нейронной сети](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/4.jpg)
+![Распознавание](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/5.jpg)
+![Взаимодействие](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/6.jpg)
+![Сигмоидная функция](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/7.jpg)
+![Формула активации](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/8.jpg)
+![Формула стоимости](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/9.jpg)
+![Обучение](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/10.jpg)
+![Градиентный спуск](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/11.jpg)
+![Обратное распространение](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/12.jpg)
+![Стохастический градиентный спуск](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/13.jpg)
+![Знакомство с SOM](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/14.jpg)
+![Анализ и эксперименты](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/15.jpg)
+![Заключение](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/16.jpg)
+![Вопросы](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/17.jpg)
+![Спасибо за внимание](https://github.com/Sirazetdinova/mnist-self-organizing-map/blob/main/report/graphics/18.jpg)
